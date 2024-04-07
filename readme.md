@@ -1,9 +1,8 @@
-# <h1 align="center">Pix2Pix</h1>
+# <h1 align="center">**Pix2Pix**</h1>
 
 <p align="center">
 <img src="images/image_readme.png"> 
 </p>
-<p align="center"><i>Source: TensorFlow</i></p>
 
 This repository implements generative models inspired by the paper [*Image-to-Image Translation with Conditional Adversarial Networks*](https://arxiv.org/abs/1611.07004) by Isola et al. (2017), also known as Pix2Pix. This method offers a powerful framework for image translation tasks, enabling the direct mapping from input to output images based on paired training data. Pix2Pix has demonstrated remarkable results in various applications, including style transfer, semantic segmentation, and image synthesis.
 
@@ -11,9 +10,9 @@ This repository implements generative models inspired by the paper [*Image-to-Im
 
 To explore the capabilities of Pix2Pix, implementations were done in both TensorFlow and PyTorch, the two most widely used frameworks in Deep Learning. Each implementation provides deep insights into the differences and similarities between these frameworks, offering practical perspectives for deep learning practitioners.
 
-- [TensorFlow Notebook](Pix2Pix_Satellite2Routes_TensorFlow.ipynb)
+- [TensorFlow Notebook](Pix2Pix_Satellite2Route_TensorFlow.ipynb)
 
-- [PyTorch Notebook](Pix2Pix_Satellite2Routes_Pytorch.ipynb)
+- [PyTorch Notebook](Pix2Pix_Satellite2Route_Pytorch.ipynb)
 
 ## Dataset Setup
 
